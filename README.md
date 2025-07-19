@@ -12,4 +12,4 @@ Une interface d’administration moderne et responsive pour la gestion de produi
 
 ## 🖼️ Aperçu
 
-![Screenshot](public/screenshot/screenshot.jpg)
+![Screenshot](public/screenshot/screenshot.mp4)
